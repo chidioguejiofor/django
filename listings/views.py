@@ -12,4 +12,4 @@ def search(request):
 
 
 def listing(request):
-    return render(request, 'listings/search.html')
+    return render(request, 'listings/listing.html')
