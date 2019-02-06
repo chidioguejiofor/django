@@ -7,3 +7,4 @@ db.sqlite3
 **/*/node_modules
 ui_resources/images
 ui_resources/logo
+.env
