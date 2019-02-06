@@ -1,2 +1,9 @@
-btre_resources
 .idea/*
+venv
+db.sqlite3
+
+**/*/__pycache__
+/static
+**/*/node_modules
+ui_resources/images
+ui_resources/logo
